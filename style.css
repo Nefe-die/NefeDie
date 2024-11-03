@@ -1,0 +1,16 @@
+body {
+    background-color: grey;
+    color: black; 
+    font-family:"Itim", serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 2;
+}
+
+button {
+    background-color: black;
+    color: goldenrod;
+    font-family:"Itim", serif;
+}
